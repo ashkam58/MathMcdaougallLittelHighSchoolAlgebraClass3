@@ -1,0 +1,6 @@
+{
+  "name": "Function Heroes: The Mystery of the Function Machine",
+  "description": "An immersive comic-book Algebra 1 interactive classroom for Sajeev covering Function Notation and Evaluating Functions (HSF-IF.A.2, HSF-IF.A.1).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
